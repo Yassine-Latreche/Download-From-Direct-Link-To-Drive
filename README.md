@@ -1,4 +1,4 @@
-#Download From Direct Link To Drive:
+# Download From Direct Link To Drive:
 
 I created this notebook because my internet connection is so bad, and some websites doesn't allow resuming downloads so if you lost your connection, you have to start again from the beginning.
 
